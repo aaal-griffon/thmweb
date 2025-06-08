@@ -31,21 +31,68 @@ def eklenecek_br(sözler):
 
 # Örnek kullanım:
 sözler = """
-Sevda olmasaydı da gönüle dolmasaydı
-Sevda olmasaydı da gönüle dolmasaydı
-Dünya neye yarardı da güzeli olmasaydı
-Dünya neye yarardı da güzeli olmasaydı
-Nar tanesi tanesi de seviyom nar danesi
-Güzellerin içinde de sevdiğim bir tanesi
+Tatlı dile güler yüze
+Doyulur mu doyulur mu
+Aşkınan bakışan göze
+Doyulur mu doyulur mu
 
-O yar zülfünü tarar da gönül dengini arar
-O yar zülfünü tarar da gönül dengini arar 
-Dünyada sevmeyen de ahrette neye yarar
-Dünyada sevmeyen de ahrette neye yarar
-Nar tanesi tanеsi de seviyom nar danesi
-Güzеllerin içinde de sevdiğim bir tanesi
-Nar tanesi tanеsi de seviyom nar danesi
-Güzеllerin içinde de sevdiğim bir tanesi
+Tatlı dile güler yüze
+Doyulur mu doyulur mu
+Aşkınan bakışan göze
+Doyulur mu doyulur mu
+
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+
+
+Garibim geldik gitmeye
+Muhabbetimiz bitmeye
+Yârinen sohbet etmeye
+Doyulur mu doyulur mu
+
+Garibim geldik gitmeye
+Muhabbetimiz bitmeye
+Yârinen sohbet etmeye
+Doyulur mu doyulur mu
+
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+
+
+Hem bahara hemi yaza
+Yârin ettikleri naza
+Yâr aşkına çalan saza
+Doyulur mu doyulur mu
+
+Hem bahara hemi yaza
+Yârin ettikleri naza
+Yâr aşkına çalan saza
+Doyulur mu doyulur mu
+
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
 """
 
 eklenen_sözler = eklenecek_br(sözler)
