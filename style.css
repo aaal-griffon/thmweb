@@ -66,7 +66,43 @@ margin-top:6vh ;
     background-color: #d7c2b8!important;
     color: #282523!important;
 
+
 }
+    .yazi {
+
+        margin-top: 7vh;
+    }
+
+    .yazi h1 {
+        
+        font-size: 4.5vh;
+    }
+
+    .sef {
+
+        color: #d7c2b8;
+
+    }
+    .sef h3{
+        display: flex;
+        justify-content: center;
+        /* Yatay ortalama */
+        align-items: center;
+        font-size: 3vh;
+        font-weight: bold; 
+                text-align: center;
+
+    }
+    .sef p {
+        font-size: 2.2vh;
+        color: #d7c2b8;
+        text-align: center;
+    }
+    .iyi h1{
+        font-size: 4vh;
+        font-weight: bold; 
+        margin-top: 7vh;
+    }
 @media (max-width: 700px) {
     .yazi {
 
