@@ -31,37 +31,21 @@ def eklenecek_br(sözler):
 
 # Örnek kullanım:
 sözler = """
-Aman bulguru kaynatırlar
-Guzum bulguru kaynatırlar
-Serinde yaylatırlar
-Aman serinde yaylatırlar
-Aman bizde âdet böyledir
-Guzum bizde âdet böyledir
-Güzeli ağlatırlar, aman çirkini söyletirler
-Fidayda da Angaralı'm fidayda
-500 altın yedirdin bir ayda
-Gitti de gelmedi, ne fayda
-Başını da yesin bu sevda
-Fidayda da Angaralı'm fidayda
-500 altın yedirdin bir ayda
-Gitti de gelmedi, ne fayda
-Başını da yesin bu sevda
-Aman dama çıkma, başa çık
-Haydi dama çıkma, başa çık
-Arpalarda aradın, çık
-Aman arpalarda aradın, çık
-Aman eğer gönlün var ise
-Haydi eğer gönlün var ise
-Al bohçanı yola çık
-Aman al bohçanı yola çık
-Fidayda da Angaralı'm fidayda
-500 altın yedirdin bir ayda
-Gitti de gelmedi, ne fayda
-Başını da yesin bu sevda
-Fidayda da Angaralı'm fidayda
-500 altın yedirdin bir ayda
-Gitti de gelmedi, ne fayda
-Başını da yesin bu sevda
+Sevda olmasaydı da gönüle dolmasaydı
+Sevda olmasaydı da gönüle dolmasaydı
+Dünya neye yarardı da güzeli olmasaydı
+Dünya neye yarardı da güzeli olmasaydı
+Nar tanesi tanesi de seviyom nar danesi
+Güzellerin içinde de sevdiğim bir tanesi
+
+O yar zülfünü tarar da gönül dengini arar
+O yar zülfünü tarar da gönül dengini arar 
+Dünyada sevmeyen de ahrette neye yarar
+Dünyada sevmeyen de ahrette neye yarar
+Nar tanesi tanеsi de seviyom nar danesi
+Güzеllerin içinde de sevdiğim bir tanesi
+Nar tanesi tanеsi de seviyom nar danesi
+Güzеllerin içinde de sevdiğim bir tanesi
 """
 
 eklenen_sözler = eklenecek_br(sözler)

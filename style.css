@@ -35,7 +35,10 @@ margin-top:6vh ;
     border-radius: 3vh!important;
 }
 .bg-dark-custom {
-    background-color: #574236;
+      background-color: hsl(11, 70%, 32%);
+        border: 1.3vw solid #f6d4b1; 
+
+
 }
 .custom-btn{
 
@@ -91,6 +94,7 @@ margin-top:6vh ;
     .sef p {
         font-size: 2.2vh;
         color: #d7c2b8;
+        text-align: center;
     }
     .iyi h1{
         font-size: 4vh;
