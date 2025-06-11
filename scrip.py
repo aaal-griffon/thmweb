@@ -51,6 +51,26 @@ Canâna kıyanlar
 Hakk'ın kulu sayılır mı
 
 
+Hem bahara hemi yaza
+Yârin ettikleri naza
+Yâr aşkına çalan saza
+Doyulur mu doyulur mu
+
+Hem bahara hemi yaza
+Yârin ettikleri naza
+Yâr aşkına çalan saza
+Doyulur mu doyulur mu
+
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+Doyulur mu doyulur mu
+Canâna kıyılır mı
+Canâna kıyanlar
+Hakk'ın kulu sayılır mı
+
+
 Garibim geldik gitmeye
 Muhabbetimiz bitmeye
 Yârinen sohbet etmeye
@@ -65,26 +85,6 @@ Doyulur mu doyulur mu
 Canâna kıyılır mı
 Canâna kıyanlar
 Hakk'ın kulu sayılır mı
-Doyulur mu doyulur mu
-Canâna kıyılır mı
-Canâna kıyanlar
-Hakk'ın kulu sayılır mı
-Doyulur mu doyulur mu
-Canâna kıyılır mı
-Canâna kıyanlar
-Hakk'ın kulu sayılır mı
-
-
-Hem bahara hemi yaza
-Yârin ettikleri naza
-Yâr aşkına çalan saza
-Doyulur mu doyulur mu
-
-Hem bahara hemi yaza
-Yârin ettikleri naza
-Yâr aşkına çalan saza
-Doyulur mu doyulur mu
-
 Doyulur mu doyulur mu
 Canâna kıyılır mı
 Canâna kıyanlar
